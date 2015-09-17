@@ -56,14 +56,13 @@ Octopress 博客 Dockerfile
 
 然后重启容器。
 
-## github
 
-[github](https://github.com/xiongjungit/docker-octopress)
+## 代码创建和维护
 
-## dockerhub
+* QQ: 479608797
 
-[dockerhub](https://hub.docker.com/r/dockerxman/)
+* 邮件: fenyunxx@163.com
 
-## License
+* [github](https://github.com/xiongjungit/docker-octopress)
 
-[MIT License](http://opensource.org/licenses/mit-license.html)
+* [dockerhub](https://hub.docker.com/r/dockerxman/)
