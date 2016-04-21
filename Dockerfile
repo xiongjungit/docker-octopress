@@ -31,7 +31,7 @@ RUN rm /tmp/octopress.zip
 # Install Octopress dependencies
 WORKDIR /srv/octopress-master
 
-#gem sources http://ruby.taobao.org
+#gem sources https://ruby.taobao.org
 ADD Gemfile /srv/octopress-master/Gemfile
 
 RUN gem install bundler
